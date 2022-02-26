@@ -16,11 +16,11 @@
   Some information about me
 </h3>
 
-My real name is Alexander. I am from Ukraine. I am 14 y.o. I am interested in developing roms for my phone, web development and some other things. Now I'm mainly developing dotOS for OnePlus 6T. You can ask me something on Telegram.
+My real name is Alexander. I am from Ukraine. I am 15 y.o. I am interested in developing roms for my phone, web development and some other things. Now I'm mainly developing PXOSP Rom for OnePlus 6T. You can ask me something on Telegram.
 
 - 🔭 I’m currently working on Ubuntu Touch
 - 🌱 I’m currently learning bash and C++
-- 💬 Ask me about Linux :)
+- 💬 Ask me about my projects or contributions :)
 - ⚡ Fun fact: I am Human!
 
 <h3>
